@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">formAuditorio</string>
+    <string name="titulo">Formulario datos de usuario</string>
+    <string name="Instruccion">Introduce tus datos personales</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidoP">Primer apellido</string>
+    <string name="apellidoM">Segundo apellido</string>
+    <string name="cargo">Cargo Administrativo</string>
+    <string name="area">Area de trabajo</string>
+    <string name="motivo">Motivo de la solicitud</string>
+</resources>
